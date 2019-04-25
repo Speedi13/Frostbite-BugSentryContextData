@@ -1,0 +1,108 @@
+[ModuleInfo]
+5CA2316BE7AE000.140000000.242933760.bfv.exe;5B93FFA71AD000.7fff10de0000.1757184.ntdll.dll;545054CA13E000.7fff0e5c0000.1302528.KERNEL32.DLL;5A7DDF0A116000.7fff0e210000.1138688.KERNELBASE.dll;554B97038E000.7fff0ca80000.581632.apphelp.dll;5BD20000301000.7ffee98f0000.3149824.Activation64.dll;5B93F11F14C000.7fff0ed00000.1359872.GDI32.dll;582361C7177000.7fff0e7c0000.1536000.USER32.dll;58DE62BB1DF000.7fff0dfd0000.1961984.CRYPT32.dll;54503A6354000.7fff10b40000.344064.SHLWAPI.dll;57F3FC8D51000.7fff0e1b0000.331776.WINTRUST.dll;5AC5B295A6000.7ffefa930000.679936.MSVCP140.dll;5B718A371B1000.7fff06be0000.1773568.gdiplus.dll;
+
+[StreamInstall_Status]
+Installed
+
+[VidMemDed]
+   6.0 GB
+
+[VidMemDedSys]
+   0.0 BY
+
+[VidMemShared]
+  ***.0 GB
+
+[TraceSessionId]
+***********************
+
+[SessionId]
+***********************
+
+[SpartaVersion]
+release-bfv-patch3.1/24569/casablanca
+
+[StateNavContext (Telem_FrontendMenu)]
+Telem_FrontendSparta
+
+[StreamInstall_InitialStatus]
+Installed
+
+[StateNavContext (UIScreensRoot)]
+
+
+[StateNavContext (FrontendRoot)]
+TwinkleMainState
+
+[StateNavContext (ArmoryAssetsRoot)]
+Null
+
+[SpartaChangelist]
+c9cae2ddc948836869ab3eeb71080127d604e238
+
+[OS Info]
+RtlGetVersion:**.**.**** - 
+
+[PatchVersion]
+3.1
+
+[PlatformMode]
+WIN32_DX11_NVIDIA
+
+[Online]
+Connected
+
+[Origin Client Version]
+10,5,37,24524
+
+[NVIDIA]
+IsOverclocked: 0
+
+[GPU Driver Version]
+416***
+
+[Machine Info]
+64-bit,      Intel(R) CPU ********** @ 4.20GHz
+
+[MachineUniqueId]
+****************************************
+
+[IPAddress]
+***.***.***.***
+
+[Level]
+Levels/Frontend/Frontend
+
+[IsLocalPlayerSpectator]
+False
+
+[GPU Name]
+NVIDIA GeForce RTX ********
+
+[DirectX Version]
+11
+
+[Game state]
+LevelLoaded:Levels/Frontend/Frontend
+
+[GameMode]
+
+
+[GameType]
+singleplayer
+
+[DX11VMEM]
+VideoPrivate:    2.0 GB /    6.0 GB|VideoShared:  245.0 MB /   ***.0 GB|SystemShared:    3.0 GB /    0.0 BY
+
+[Commandline]
+******\OriginGames\Battlefield V\bfv.exe 
+
+[DataBranchName]
+casablanca
+
+[AssertLog]
+
+
+[CodeBranchName]
+bf-release
+
