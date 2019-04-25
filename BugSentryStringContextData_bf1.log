@@ -1,0 +1,84 @@
+TreeNodes: 27
+Root Node: 0x22AF0660
+
+[Machine Info]
+64-bit,      Intel(R) CPU ********** @ 4.20GHz
+
+[OS Info]
+RtlGetVersion:**.**.**** - 
+
+[VidMemDed]
+   5.8 GB
+
+[VidMemDedSys]
+   0.0 BY
+
+[VidMemShared]
+  ****.9 GB
+
+[SpartaVersion]
+release-bf1-lsu33/24116/tunguska
+
+[TraceSessionId]
+************************
+
+[PresenceMode]
+Connected
+
+[SpartaChangelist]
+b45f1eadd578a61655ed29ac8bc98acb0afa9f10
+
+[PersonaId]
+***********
+
+[ModuleInfo]
+5B92A7FACD77000.140000000.215445504.bf1.exe;5B93FFA71AD000.7fff10de0000.1757184.ntdll.dll;545054CA13E000.7fff0e5c0000.1302528.KERNEL32.DLL;5A7DDF0A116000.7fff0e210000.1138688.KERNELBASE.dll;57C87D55F5000.7ffeea910000.1003520.Activation64.dll;58DE62BB1DF000.7fff0dfd0000.1961984.CRYPT32.dll;57F3FC8D51000.7fff0e1b0000.331776.WINTRUST.dll;577E0CD4A6000.7ffef1820000.679936.MSVCP120.dll;577E0CC7EF000.7ffeeb9f0000.978944.MSVCR120.dll;........
+
+[Online]
+Connected
+
+[Origin Client Version]
+10,5,37,24524
+
+[NVIDIA]
+IsOverclocked: 0
+
+[Memory Total]
+Physical: *******MB. Virtual: *******MB.
+
+[Memory Available]
+Physical: *******MB. Virtual: *******MB. Load: 68%
+
+[DX11VMEM]
+VideoPrivate:  642.1 MB /    5.8 GB|VideoShared:   73.9 MB /   ***.9 GB|SystemShared:  822.8 MB /    0.0 BY
+
+[GPU Driver Version]
+41****
+
+[IsLocalPlayerSpectator]
+False
+
+[Level]
+Levels/Frontend/Frontend
+
+[GPU Name]
+NVIDIA GeForce RTX ******
+
+[GameMode]
+
+
+[GameType]
+coop
+
+[Game state]
+LevelLoaded:Levels/Frontend/Frontend
+
+[Commandline]
+******\OriginGames\Battlefield 1\bf1.exe 
+
+[DirectX Version]
+11
+
+[AssertLog]
+
+
