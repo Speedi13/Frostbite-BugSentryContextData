@@ -1,6 +1,6 @@
 # Frostbite-BugSentryContextData
-Traversing frostbites BugSentry->StringContextData
-
+Traversing frostbites BugSentry->StringContextData<br />
+the following code works on BFV, BF1, SWBF2 <br />
 # Game Class
 ```cpp
 class BugSentry
@@ -89,3 +89,5 @@ void TraverseStringContextData()
 ```
 
 # Output
+https://github.com/Speedi13/Frostbite-BugSentryContextData/blob/master/BugSentryStringContextData_bfV.log
+https://github.com/Speedi13/Frostbite-BugSentryContextData/blob/master/BugSentryStringContextData_bf1.log
