@@ -30,7 +30,7 @@ void TraverseStringContextData()
 	seastl::rbtree_node< seastl::pair<char*, seastl::ring_buffer<string>*> > * Node = NULL;
   
 	//48 83 E3 FC E8 ?? ?? ?? ?? 48 8B C8
-	//https://github.com/Speedi13/Frostbite-BugSentry/blob/master/classes.hpp#L89
+	//https://github.com/Speedi13/Frostbite-BugSentryContextData/blob/master/classes.hpp#L91
 	BugSentry* g_BugSentry = BugSentry::GetInstance();
 	
 	seastl::rbtree* StringContextData = &g_BugSentry->m_stringContextData;
