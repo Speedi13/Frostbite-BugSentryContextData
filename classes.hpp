@@ -93,7 +93,7 @@ static void GetBugSentryInstance()
 	fb__BugSentry__singleton = (DWORD64)ResolveRelativePtr( fb__BugSentry__singleton );
 	
 	while (*(BYTE*)fb__BugSentry__singleton == 0xE9)
-		fb__BugSentry__singleton += ( *( signed __int32*)(fb__BugSentry__singleton+1) + 4i64 );
+		fb__BugSentry__singleton += ( *( signed __int32*)(fb__BugSentry__singleton+1) + 4i64 + 1i64 );
 	
 	DebugOffset( fb__BugSentry__singleton );
 	
